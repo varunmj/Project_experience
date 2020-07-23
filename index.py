@@ -12,4 +12,4 @@ def print_my_name(n):
     return n
 
 if __name__ =="__main__":
-    print_my_name()
+    print_my_name(n)

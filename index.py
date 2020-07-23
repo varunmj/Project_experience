@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-n = input()
+n = int(input())
 
 def print_my_name(n):
 

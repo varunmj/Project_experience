@@ -11,7 +11,7 @@ driver = webdriver.Chrome('C://Users//Hritik//Downloads//chromedriver')
 driver.get('https://www.linkedin.com/')
 
 username = driver.find_element_by_name("session_key")
-username.send_keys('YOUR_EMAIL_ADDRESS')
+username.send_keys('YOUR_EMAIL_ADDRESSS')
 sleep(0.5)
 
 password = driver.find_element_by_name('session_password')
